@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://prabhacab.in/</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://prabhacab.in/?lang=hi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/hero.jpg</image:loc>
+      <image:title>Prabha Cab - Best Taxi Service in Greater Noida and Delhi NCR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/services</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/services"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://prabhacab.in/services?lang=hi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/services/airport-transfer.jpg</image:loc>
+      <image:title>Airport Transfer Service from Greater Noida to IGI Delhi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/pricing</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/pricing"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://prabhacab.in/pricing?lang=hi"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/booking</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/booking"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://prabhacab.in/booking?lang=hi"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/routes</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/routes"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://prabhacab.in/routes?lang=hi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/routes/agra.jpg</image:loc>
+      <image:title>Greater Noida to Agra Cab - Taj Mahal Tour</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/routes/jaipur.webp</image:loc>
+      <image:title>Greater Noida to Jaipur Cab - Pink City Tour</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/routes/haridwar.png</image:loc>
+      <image:title>Greater Noida to Haridwar Cab - Ganga Aarti Tour</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/fleet</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/fleet"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://prabhacab.in/fleet?lang=hi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/fleet/sedan1.png</image:loc>
+      <image:title>Maruti Dzire Sedan Cab - Prabha Cab Greater Noida</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/fleet/xl.avif</image:loc>
+      <image:title>Maruti Ertiga XL SUV Cab - Prabha Cab Greater Noida</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/fleet/premium-suv.avif</image:loc>
+      <image:title>Toyota Innova Crysta Premium Cab - Prabha Cab Greater Noida</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/about</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/about"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://prabhacab.in/about?lang=hi"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/contact</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/contact"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://prabhacab.in/contact?lang=hi"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/faq</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/faq"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://prabhacab.in/faq?lang=hi"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/taxi-service-greater-noida</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/taxi-service-greater-noida"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/taxi-service-noida</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/taxi-service-noida"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/taxi-service-delhi</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/taxi-service-delhi"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/taxi-service-ghaziabad</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/taxi-service-ghaziabad"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/taxi-service-gurgaon</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/taxi-service-gurgaon"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/taxi-service-faridabad</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/taxi-service-faridabad"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/noida-to-delhi-airport-taxi</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/noida-to-delhi-airport-taxi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/services/airport-transfer.jpg</image:loc>
+      <image:title>Noida to Delhi IGI Airport Taxi Service - Prabha Cab</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/delhi-airport-cab-service</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/delhi-airport-cab-service"/>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/noida-to-agra-taxi</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/noida-to-agra-taxi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/routes/agra.jpg</image:loc>
+      <image:title>Noida to Agra Taxi - Taj Mahal Tour</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/noida-to-jaipur-taxi</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/noida-to-jaipur-taxi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/routes/jaipur.webp</image:loc>
+      <image:title>Noida to Jaipur Taxi - Pink City</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/noida-to-haridwar-taxi</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/noida-to-haridwar-taxi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/routes/haridwar.png</image:loc>
+      <image:title>Noida to Haridwar Taxi - Ganga Aarti</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/noida-to-rishikesh-taxi</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/noida-to-rishikesh-taxi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/routes/rishikesh.webp</image:loc>
+      <image:title>Noida to Rishikesh Taxi - Yoga Capital</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/noida-to-nainital-taxi</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/noida-to-nainital-taxi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/routes/nainital.webp</image:loc>
+      <image:title>Noida to Nainital Taxi - Lake City</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://prabhacab.in/noida-to-chandigarh-taxi</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://prabhacab.in/noida-to-chandigarh-taxi"/>
+    <image:image>
+      <image:loc>https://prabhacab.in/images/routes/chandigarh1.jpeg</image:loc>
+      <image:title>Noida to Chandigarh Taxi - City Beautiful</image:title>
+    </image:image>
+  </url>
+</urlset>
